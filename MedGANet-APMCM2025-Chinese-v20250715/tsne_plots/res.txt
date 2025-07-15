@@ -1,0 +1,174 @@
+D:\Anaconda3\envs\yolo\python.exe E:\学习资料\竞赛\2025APMCM中文赛道\data.v2\data\Q3_GAN_t_SNE2_New.py 
+
+======================================== 第 1 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 1 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.99       286
+           1       1.00      0.68      0.81        25
+
+    accuracy                           0.97       311
+   macro avg       0.99      0.84      0.90       311
+weighted avg       0.97      0.97      0.97       311
+
+AUROC: 0.9233, AUPRC: 0.7985
+
+======================================== 第 2 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 2 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.98       286
+           1       0.88      0.56      0.68        25
+
+    accuracy                           0.96       311
+   macro avg       0.92      0.78      0.83       311
+weighted avg       0.96      0.96      0.95       311
+
+AUROC: 0.8929, AUPRC: 0.6966
+
+======================================== 第 3 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 3 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.98       286
+           1       0.94      0.68      0.79        25
+
+    accuracy                           0.97       311
+   macro avg       0.96      0.84      0.89       311
+weighted avg       0.97      0.97      0.97       311
+
+AUROC: 0.9034, AUPRC: 0.7610
+
+======================================== 第 4 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 4 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98       286
+           1       0.89      0.64      0.74        25
+
+    accuracy                           0.96       311
+   macro avg       0.93      0.82      0.86       311
+weighted avg       0.96      0.96      0.96       311
+
+AUROC: 0.9573, AUPRC: 0.8004
+
+======================================== 第 5 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 5 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       286
+           1       1.00      0.52      0.68        25
+
+    accuracy                           0.96       311
+   macro avg       0.98      0.76      0.83       311
+weighted avg       0.96      0.96      0.96       311
+
+AUROC: 0.8755, AUPRC: 0.6745
+
+======================================== 第 6 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 6 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.98       286
+           1       1.00      0.60      0.75        25
+
+    accuracy                           0.97       311
+   macro avg       0.98      0.80      0.87       311
+weighted avg       0.97      0.97      0.96       311
+
+AUROC: 0.9287, AUPRC: 0.7514
+
+======================================== 第 7 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 7 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       286
+           1       1.00      0.76      0.86        25
+
+    accuracy                           0.98       311
+   macro avg       0.99      0.88      0.93       311
+weighted avg       0.98      0.98      0.98       311
+
+AUROC: 0.9141, AUPRC: 0.8374
+
+======================================== 第 8 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 8 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.97       286
+           1       0.86      0.48      0.62        25
+
+    accuracy                           0.95       311
+   macro avg       0.91      0.74      0.79       311
+weighted avg       0.95      0.95      0.95       311
+
+AUROC: 0.8808, AUPRC: 0.6353
+
+======================================== 第 9 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 9 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.98       287
+           1       1.00      0.58      0.74        24
+
+    accuracy                           0.97       311
+   macro avg       0.98      0.79      0.86       311
+weighted avg       0.97      0.97      0.96       311
+
+AUROC: 0.9215, AUPRC: 0.7361
+
+======================================== 第 10 折 ========================================
+D:\Anaconda3\envs\yolo\lib\site-packages\sklearn\utils\validation.py:2732: UserWarning: X has feature names, but StandardScaler was fitted without feature names
+  warnings.warn(
+
+第 10 折测试结果:
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97       286
+           1       0.91      0.42      0.57        24
+
+    accuracy                           0.95       310
+   macro avg       0.93      0.71      0.77       310
+weighted avg       0.95      0.95      0.94       310
+
+AUROC: 0.8636, AUPRC: 0.5815
+
+==================================================
+交叉验证平均结果 (±标准差):
+==================================================
+accuracy    : 0.9649 ± 0.0089
+f1          : 0.7249 ± 0.0842
+precision   : 0.9475 ± 0.0567
+recall      : 0.5920 ± 0.0978
+auprc       : 0.7273 ± 0.0760
+auroc       : 0.9061 ± 0.0270
+specificity : 0.9972 ± 0.0030
+
+进程已结束，退出代码为 0
